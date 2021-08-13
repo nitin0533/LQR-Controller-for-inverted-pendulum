@@ -1,7 +1,7 @@
 ## Summary
 The objective is to balance the inverted pendulum on moving cart by controlling the force on the cart.
 ## Problem
-![Problem]
+![Problem](https://github.com/nitin0533/LQR-Controller-for-inverted-pendulum/blob/main/problem.PNG)
 
 The pendulum is attached to the top of a cart that can move along the x-direction as shown in the figure. The cart is driven by an engine which exerts a horizontal force F . In addition, the cart also experiences a resistance  f  due to its motion.  
 An LQR controller needs to be designed for regulating the force exerted, so that the pendulum can be stabilized in the inverted position. The controller should work even if the pendulum is off the vertical initially. (Though of angle with verticle is measured from +y axis, the actual angle used in this problem is measured with -ve y axis. Therefore, we should expect the pendulum to stabilize with angle pi radians with -ve y axis and 0 angular velocity)
