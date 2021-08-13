@@ -33,8 +33,9 @@ An LQR controller needs to be designed for regulating the force exerted, so that
 ## Results
 ### Plots of angular deviation of pendulum from verticle and angular velocity of pendulum
 We expected the pendulum to stabilize with angle pi radians with -ve y axis and 0 angular velocity, that is what we get!!!
-![Problem]()
+![Problem](https://github.com/nitin0533/LQR-Controller-for-inverted-pendulum/blob/main/Plots.png)
 ### Demo video
+
 
 
 
