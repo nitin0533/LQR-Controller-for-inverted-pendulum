@@ -38,8 +38,8 @@ We expected the pendulum to stabilize with angle pi radians with -ve y axis and 
 
 
 
-!(https://github.com/nitin0533/LQR-Controller-for-inverted-pendulum/blob/main/Demo.mp4)
 
+https://user-images.githubusercontent.com/71177034/129439373-cedc7126-bf13-4aa2-bbd4-0bb782394ff4.mp4
 
 
 
