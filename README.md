@@ -1,3 +1,21 @@
+## Resume Points
+**LQR controller to stabilize inverted pendulum pivoted on moving cart**
+1. Developed a MATLAB code to design controller with optimal gain matrix derived using LQR to stabilize the pendulum
+2. Deployed LQR controller in Simulink to calibrate results and visualized the pendulum motion in MATLAB animation
+
+
+**LQR controller to stabilize inverted pendulum pivoted on moving cart**
+1. Developed a MATLAB code to design controller with optimal gain matrix derived using LQR to stabilize the motion of inverted pendulum
+
+
+**LQR controller to stabilize inverted pendulum pivoted on moving cart**
+1. Developed a MATLAB code to design controller with optimal gain matrix derived using LQR to stabilize the inverted pendulum
+
+
+**Design of Linear Quadratic Regulator (LQR) using MATLAB **
+1. Designed controller with optimal gain matrix using LQR function to stabilize inverted pendulum on a moving cart
+2. Deployed LQR controller in Simulink to calibrate results and visualized the pendulum motion in MATLAB animation
+
 ## Summary
 The objective is to balance the inverted pendulum on moving cart by controlling the force on the cart.
 ## Problem
