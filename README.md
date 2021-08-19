@@ -14,7 +14,8 @@
 
 **Design of Linear Quadratic Regulator (LQR) using MATLAB**
 1. Designed controller with optimal gain matrix using LQR function to stabilize inverted pendulum on a moving cart
-2. Deployed LQR controller in Simulink to calibrate results and visualized the pendulum motion in MATLAB animation
+
+3. Deployed LQR controller in Simulink to calibrate results and visualized the pendulum motion in MATLAB animation
 
 ## Summary
 The objective is to balance the inverted pendulum on moving cart by controlling the force on the cart.
